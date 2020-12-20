@@ -286,7 +286,7 @@ body {
 }
 
 
-.end a:hover:after, .end a:hover:before, .end a:hover:after {
+.end a:hover:after, .end a:hover:before, .end a:hover:after, .end a.active:after,.end a.active:before {
     width: 100%;
     
 }
